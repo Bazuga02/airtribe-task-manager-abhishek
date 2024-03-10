@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/airtribe-task-manager-abhishek/static/css/main.bee2b2fb.css",
+    "main.js": "/airtribe-task-manager-abhishek/static/js/main.e8257872.js",
+    "static/js/453.ed3810f9.chunk.js": "/airtribe-task-manager-abhishek/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/airtribe-task-manager-abhishek/index.html",
+    "main.bee2b2fb.css.map": "/airtribe-task-manager-abhishek/static/css/main.bee2b2fb.css.map",
+    "main.e8257872.js.map": "/airtribe-task-manager-abhishek/static/js/main.e8257872.js.map",
+    "453.ed3810f9.chunk.js.map": "/airtribe-task-manager-abhishek/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bee2b2fb.css",
+    "static/js/main.e8257872.js"
+  ]
+}
